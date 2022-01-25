@@ -1,0 +1,53 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.nav-link:hover{
+    background-color: #7A98F9;
+    transition: .3s ease all;
+    border-radius: 80%;
+}
+
+.quem-somos{
+    background-color: #00217E;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.catalogos{
+    background-color: white;
+}
+
+.atores{
+
+}
+
+
+.bg-footer{
+    background-color: black;
+    color:white;    
+}
+
+.bibliografia:hover{
+    background-color: #DADCE4;
+}
+
+.ator{   
+    
+}
+
+.titulo-secao{
+    margin: 20px;
+    background-color: #7A98F9;
+    height: 7px;
+    color:white;
+    font-size: 2rem;
+}
